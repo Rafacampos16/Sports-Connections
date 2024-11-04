@@ -1,4 +1,4 @@
 # Sports-Connections
 Projeto de micro-informática
 
-Link do aite: https://sports-connection.netlify.app
+Link do site: https://sports-connection.netlify.app
